@@ -1,4 +1,4 @@
-pub const DOMAINS: &[&str] = &[
+pub const BLOCKED: &[&str] = &[
     "0yenschool.com",
     "358dokari.com",
     "aiacademy.jp",
