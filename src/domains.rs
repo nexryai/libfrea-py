@@ -40228,4 +40228,5 @@ pub const BLOCKED: &[&str] = &[
     "f72u.net",
     "narrativerry.xyz",
     "youjo.love",
+    "soyokaze2009.com",
 ];
